@@ -1,0 +1,12 @@
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\bin\Debug\Final Assignment.exe.config
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\bin\Debug\Final Assignment.exe
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\bin\Debug\Final Assignment.pdb
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final Assignment.csprojAssemblyReference.cache
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final_Assignment.Form1.resources
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final_Assignment.Properties.Resources.resources
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final_Assignment.Views.AllBooks.resources
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final_Assignment.Views.Book_Detail.resources
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final Assignment.csproj.GenerateResource.cache
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final Assignment.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final Assignment.exe
+E:\Semester 6\C#\final term\Final Assignment using MVC\Final Assignment\obj\Debug\Final Assignment.pdb
